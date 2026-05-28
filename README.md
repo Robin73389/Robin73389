@@ -44,11 +44,10 @@
 </p>
 ---
 
-# 🎓 Formation
 ## 🎓 Formation
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Holberton_School_logo.png" width="160"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Holberton_School_logo.png/320px-Holberton_School_logo.png" width="160"/>
 </p>
 
 <p align="center">
