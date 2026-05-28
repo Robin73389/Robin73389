@@ -3,8 +3,6 @@
 </p>
 <div align="center">
 
-# ⚡ Robin ⚡
-
 ---
 
 <img src="https://github-readme-stats.vercel.app/api?username=Robin73389&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF" height="170"/>
