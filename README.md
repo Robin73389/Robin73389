@@ -45,12 +45,14 @@
 
 # 🎓 Formation
 
+## 🎓 Formation
+
 <p align="center">
-<img src="https://img.shields.io/badge/Holberton_School-FF0000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciLz4=" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Holberton_School_logo.png" width="180"/>
 </p>
 
 <p align="center">
-🎓 Student at Holberton School
+🎓 Student at <b>Holberton School</b>
 </p>
 
 💻 Student at **Holberton School**  
