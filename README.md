@@ -46,12 +46,12 @@
 # 🎓 Formation
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/Holberton_School-00F7FF?style=for-the-badge&logo=holbertonschool&logoColor=black"/>
-
+<img src="https://img.shields.io/badge/Holberton_School-FF0000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciLz4=" />
 </p>
 
-<div align="center">
+<p align="center">
+🎓 Student at Holberton School
+</p>
 
 💻 Student at **Holberton School**  
 🚀 Learning Cybersecurity & Devoloppeur Web & Web Mobile
