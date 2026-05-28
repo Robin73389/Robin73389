@@ -25,9 +25,10 @@
 <p align="center">
 
 <a href="mailto:Robinbouvier9@gmail.com">
-    <img src="https://img.shields.io/badge/Email-00F7FF?style=for-the-badge&logo=gmail&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+</p>
 <a href="www.linkedin.com/in/robin-bouvier">
     <img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
 </a>
