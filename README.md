@@ -48,8 +48,10 @@
 
 ## 🎓 Formation
 
+## 🎓 Formation
+
 <p align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Holberton_School_logo.png" width="180"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Holberton_School_logo.png" width="180"/>
 </p>
 
 <p align="center">
